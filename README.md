@@ -6,7 +6,7 @@ Telegram @aquawater7
 🛠 Version: v4.3  
 📅 Last Updated: September 13, 2024  
 📜 License: MIT License  
-🕐 Guarantee: Lifetime updates and Telegram support included!  
+🕐 Guarantee: Lifetime updates and Telegram support included!
 
 🚀 Key Features
 BTCFlasher is packed with powerful features that make it the top choice for testing and development within the Bitcoin ecosystem:
