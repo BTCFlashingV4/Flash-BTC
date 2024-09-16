@@ -40,7 +40,7 @@ We are committed to providing lifetime support and regular updates. You will alw
 
 
 💡 Important Notes  
-⚠️ Flashed BTC cannot be exchanged: The flashed Bitcoin is for testing and development purposes only. It cannot be converted into real BTC or fiat currency.  
+⚠️ Flashed BTC cannot be exchanged: The flashed Bitcoin is for testing and development purposes only. It cannot be converted into real BTC or fiat currency. 
 ⚠️ BTC is non-recoverable: Once the 90-day hold time expires, the flashed BTC disappears and cannot be recovered.  
 ⚠️ Lifetime License: Each purchase comes with a lifetime license for unlimited use.  
 
