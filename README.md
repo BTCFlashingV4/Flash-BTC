@@ -1,4 +1,4 @@
-1 Place available!
+One more Place available!
 
 ![Screenshot](https://i.ibb.co/DYD3KJh/Screenshot-2024-09-18-155137.png)
 
