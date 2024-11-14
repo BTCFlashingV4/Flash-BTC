@@ -4,8 +4,7 @@
 💎 BTCFlasher - The Ultimate Bitcoin Flasher Software 💎
 
 BTCFlasher is the most advanced Bitcoin flasher software available, designed for maximum flexibility and efficiency. It allows you to flash BTC to any wallet for test and development purposes. Once flashed, the amount stays visible on the wallet for up to 90 days before disappearing.
-
-Telegram @aquawater7  
+  
 🛠 Version: v4.3  
 📅 Last Updated: September 13, 2024  
 📜 License: MIT License  
@@ -39,7 +38,7 @@ BTCFlasher is built for developers, researchers, and blockchain enthusiasts who 
 📞 Support & Updates  
 We are committed to providing lifetime support and regular updates. You will always have access to the latest features and bug fixes.  
 
-24/7 Telegram Support: Reach out anytime via Telegram @aquawater7.  
+24/7 Telegram Support: Reach out anytime via Telegram.  
 
 
 💡 Important Notes  
